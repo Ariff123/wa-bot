@@ -41,7 +41,8 @@ const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
             + 'FN:MY OWNER\n' 
             + 'ORG: Creator Bot Whatsapp;\n' 
-            + 'TEL;type=CELL;type=VOICE;waid=628990542731:+62 899-0542-731\n' //Set contack owner
+            + 'TEL;type=CELTEL;type=CELL;type=VOICE;waid=6285376980664:+62 853-7698-0664\n' //Set contack owner
+L;type=VOICE;waid=6285376980664:+62 853-7698-0664\n' //Set contack owner
             + 'END:VCARD' 
 
 //FILE JSON
